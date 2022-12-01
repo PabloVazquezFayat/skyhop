@@ -1,0 +1,14 @@
+.progressbar {
+  background-color: var(--light-gray);
+  width: 100%;
+  height: 4px;
+  border-radius: 2px;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.progressbar__indicator {
+  background-color: var(--orange);
+  height: 4px;
+  border-radius: 2px;
+}

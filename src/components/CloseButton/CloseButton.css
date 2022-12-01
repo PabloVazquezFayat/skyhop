@@ -1,0 +1,12 @@
+.closeButton {
+  background: var(--blue);
+  width: 40px;
+  height: 40px;
+  color: var(--white);
+  border: none;
+  border-radius: var(--sm-radius);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}

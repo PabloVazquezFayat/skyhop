@@ -1,0 +1,22 @@
+.time-selector {
+  padding-left: 15px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  cursor: pointer;
+}
+
+.time-selector svg {
+  color: var(--blue);
+  margin-top: 1px;
+  font-size: 25px;
+  transform: rotate(145deg);
+  cursor: pointer;
+}
+
+.time-selector label {
+  color: var(--blue);
+  text-transform: capitalize;
+  margin-left: 5px;
+  cursor: pointer;
+}

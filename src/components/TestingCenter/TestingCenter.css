@@ -1,0 +1,12 @@
+.testing-center {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px 0;
+}
+
+.testing-center label {
+  color: var(--blue);
+  width: 100%;
+  text-transform: capitalize;
+}

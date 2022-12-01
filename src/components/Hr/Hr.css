@@ -1,0 +1,7 @@
+.hr {
+  background-color: var(--gray);
+  width: 285px;
+  height: 1px;
+  border: none;
+  padding: 0;
+}
